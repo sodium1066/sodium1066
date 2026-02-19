@@ -1,0 +1,10 @@
+# DEHB Ders Calısma Asistanı - Bagımlılıklar
+# Bu proje yalnızca Python standart kütüphanesini kullanır.
+# Ek bagımlılık gerekmez.
+#
+# Python >= 3.7 gereklidir.
+#
+# Opsiyonel (gelecekte eklenebilir):
+# rich>=13.0          # Zengin terminal arayüzü
+# plyer>=2.1          # Masaüstü bildirimleri
+# schedule>=1.2       # Zamanlanmıs görevler
