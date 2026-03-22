@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-config.json
-tasks.json
-study_history.json
-motivation_data.json
